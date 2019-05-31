@@ -1,6 +1,6 @@
 ## Link to App
 
-You can visit the app by clicking this link: [Access App](https://reluviaris-app-fruit-react.herokuapp.com/).
+You can visit the app by clicking this link: [Access App](https://reluviaris-task-manager-api.herokuapp.com/tasks.json).
 
 # API RAILS TASKS TO CLIENT REACT
 
