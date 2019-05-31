@@ -80,6 +80,7 @@ test:
 #
 production:
   <<: *default
-  database: reluviaris-task-manager-api_production
-  username: reluviaris-task-manager-api
-  password: <%= ENV['RELUVIARIS-TASK-MANAGER-API_DATABASE_PASSWORD'] %>
+  url: <%= ENV['DATABASE_URL'] %>
+  # database: reluviaris-task-manager-api_production
+  # username: reluviaris-task-manager-api
+  # password: <%= ENV['RELUVIARIS-TASK-MANAGER-API_DATABASE_PASSWORD'] %>
