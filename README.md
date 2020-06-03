@@ -3,7 +3,7 @@
   <strong>API RAILS 5 - Integrating RAILS API with REACT CLIENT</strong>
 </h1> 
 
-## Link to App
+## 📌 Link to App
 
 You can visit the app by clicking this link: [Access App](https://reluviaris-task-manager-api.herokuapp.com/tasks.json).
 
