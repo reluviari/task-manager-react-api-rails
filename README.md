@@ -34,9 +34,6 @@ Integrating API RAILS with REACT
 ```sh
  $ rails db:seed
 ```
-## How to run the test suite
-
-## Deployment instructions
 
 ### Deploy Heroku
 
@@ -62,12 +59,6 @@ Integrating API RAILS with REACT
  $ git push heroku master
 ```
 
-## Todos
+## 🙋‍♂️ Author
 
- - Write MORE Tests
-
-
-License
-----
-
-MIT (change)
+* **Danilo Dias** - [reluviari](https://github.com/reluviari)
