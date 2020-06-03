@@ -1,10 +1,10 @@
+
+
+# API RAILS 5 - Integrating RAILS API with REACT CLIENT
+
 ## Link to App
 
 You can visit the app by clicking this link: [Access App](https://reluviaris-task-manager-api.herokuapp.com/tasks.json).
-
-# API RAILS TASKS TO CLIENT REACT
-
-Integrating API RAILS with REACT 
 
 ## Ruby version: 
 
@@ -34,10 +34,6 @@ Integrating API RAILS with REACT
 ```sh
  $ rails db:seed
 ```
-## How to run the test suite
-
-## Deployment instructions
-
 ### Deploy Heroku
 
 1. Primeiro (via heroku Cli) criamos APP no heroku. Rode no console no diretório do projeto:
@@ -62,12 +58,6 @@ Integrating API RAILS with REACT
  $ git push heroku master
 ```
 
-## Todos
+## 🙋‍♂️ Author
 
- - Write MORE Tests
-
-
-License
-----
-
-MIT (change)
+* **Danilo Dias** - [reluviari](https://github.com/reluviari)
