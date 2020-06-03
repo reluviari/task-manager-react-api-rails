@@ -1,7 +1,10 @@
-
 <h1 align="center">
-  <strong>API RAILS 5 - Integrating RAILS API with REACT CLIENT</strong>
+  <strong>Task Manager React - Backend</strong>
 </h1> 
+
+<p align="center">
+  API RAILS 5 - Integrating RAILS API with REACT CLIENT
+</p> 
 
 ## 📌 Link to App
 
