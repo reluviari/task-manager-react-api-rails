@@ -1,6 +1,7 @@
 
-
-# API RAILS 5 - Integrating RAILS API with REACT CLIENT
+<h1 align="center">
+  <strong>API RAILS 5 - Integrating RAILS API with REACT CLIENT</strong>
+</h1> 
 
 ## Link to App
 
