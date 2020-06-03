@@ -38,7 +38,7 @@ You can visit the app by clicking this link: [Access App](https://reluviaris-tas
 ```sh
  $ rails db:seed
 ```
-### Deploy Heroku
+## Deploy Heroku
 
 1. Primeiro (via heroku Cli) criamos APP no heroku. Rode no console no diretório do projeto:
 ```sh
